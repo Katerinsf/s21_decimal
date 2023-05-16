@@ -20,7 +20,7 @@ The russian version of the task can be found in the repository.
 
 ## Chapter I
 
-<!-- ![s21_decimal](misc/images/s21_decimal.png) -->
+![s21_decimal](misc/images/s21_decimal.png)
 
 Planet Earth, 1990s. 
 

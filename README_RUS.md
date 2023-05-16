@@ -17,7 +17,7 @@
 
 ## Chapter I
 
-<!-- ![s21_decimal](misc/images/s21_decimal.png) -->
+![s21_decimal](misc/images/s21_decimal.png)
 
 Планета Земля, 90 годы 
 
